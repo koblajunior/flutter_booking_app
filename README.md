@@ -1,4 +1,4 @@
-# bookingtutorial
+# bookingAppFlutter
 
 A new Flutter project.
 
